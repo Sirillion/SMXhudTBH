@@ -1,3 +1,5 @@
+# NOT NEEDED FOR 1.0 - Install Gears instead!
+
 # ZMXhudCPTHB - THE TARGET HEALTH BAR EXTENSION MODLET
 > Verified to work with: A20.5B2
 
